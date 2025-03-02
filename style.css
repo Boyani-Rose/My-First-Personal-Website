@@ -1,0 +1,22 @@
+.image-container img{
+    max-width: 100%;
+    height : auto
+}
+.image-container {
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+}
+
+header:hover{
+    background-color:white;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    background-color: pink;
+}
+header:hover {
+    background-color: black;
+    color: white;
+}
