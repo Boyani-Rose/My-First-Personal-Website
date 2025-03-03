@@ -1,11 +1,16 @@
-.image-container img{
-    max-width: 100%;
+.image-container img {
+    max-width: 50%;
     height : auto
 }
 .image-container {
-    display: flex;
-    justify-content: flex-start;
-    width: 50%;
+    max-width: 50%;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+    /* justify-content: center;
+    align-items: center;
+    width: 100%; */
+    
 }
 
 header:hover{
@@ -14,9 +19,40 @@ header:hover{
     text-align: center;
 }
 body {
+    display :grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
     background-color: pink;
+
 }
 header:hover {
     background-color: black;
     color: white;
 }
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.container ul {
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+}
+.container ul li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+/* #list {
+    margin-bottom: 10px;
+} */
