@@ -7,10 +7,6 @@
     height: auto;
     display:block;
     margin: 0 auto;
-    /* justify-content: center;
-    align-items: center;
-    width: 100%; */
-    
 }
 
 header:hover{
@@ -52,7 +48,3 @@ header:hover {
     margin-bottom: 10px;
     line-height: 1.6;
 }
-
-/* #list {
-    margin-bottom: 10px;
-} */
