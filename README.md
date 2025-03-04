@@ -2,8 +2,7 @@
 ## Author name
     Rose Momanyi
 ## Running instructions
-- Link to my project file://wsl.localhost/Ubuntu/home/rosebmomanyi/Development/code/My-first-personal-website/index.html
-
+- Link to my project file: https://boyani-rose.github.io/My-First-Personal-Website/
 ## Concepts used
 -HTML
 -CSS
